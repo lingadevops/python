@@ -1,6 +1,0 @@
-
-Server Name: abv
-Server Name: xyz
-Server Name: vuw
-Server Name: llt
-Server Name: wwl

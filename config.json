@@ -1,0 +1,8 @@
+{
+    "environment": "production",
+    "region": "us-east-1",
+    "replicas": 3,
+    "app_name": "devops-api",
+    "port": 8080,
+    "debug": false
+}
